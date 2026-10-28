@@ -1,0 +1,10 @@
+
+Rekap Nilai Mahasiswa
+
+A001: 85
+A002: 78
+A003: 92
+A004: 74
+
+Jumlah mahasiswa: 4
+Rata-rata nilai: 82.25
